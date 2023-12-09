@@ -26,27 +26,27 @@ Welcome to my portfolio website repository. This website showcases my profile, p
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
 ## File structure 
-portfolio-website/
-│
-├── assets/
-│   ├── certificates/
-│   ├── css/
-│   ├── img/
-│   ├── js/
-│   ├── projects/
-│   ├── scss/
-│   └── vendor/
-│
-├── forms/
-│   ├── Readme.txt
-│   ├── app.py
-│   └── contact.php
-│
-├── index.html
-├── inner-page.html
-├── portfolio-details.html
-├── README.md
-└── Readme.txt
+## File Structure
+
+- **portfolio-website/**
+  - **assets/**
+    - certificates/
+    - css/
+    - img/
+    - js/
+    - projects/
+    - scss/
+    - vendor/
+  - **forms/**
+    - Readme.txt
+    - app.py
+    - contact.php
+  - index.html
+  - inner-page.html
+  - portfolio-details.html
+  - README.md
+  - Readme.txt
+
 
 ## Sections
 ## Home
