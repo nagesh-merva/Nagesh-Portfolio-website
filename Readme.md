@@ -25,7 +25,7 @@ Welcome to my portfolio website repository. This website showcases my profile, p
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
-## File structure 
+
 ## File Structure
 
 - **portfolio-website/**
