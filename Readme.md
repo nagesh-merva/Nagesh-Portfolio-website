@@ -29,12 +29,43 @@ Welcome to my portfolio website repository. This website showcases my profile, p
 portfolio-website/
 │
 ├── assets/
+│   ├── certificates/
 │   ├── css/
-│   │   └── styles.css
-│   ├── images/
-│   │   └── ...
-│   └── js/
-│       └── script.js
+│   ├── img/
+│   ├── js/
+│   ├── projects/
+│   ├── scss/
+│   └── vendor/
+│
+├── forms/
+│   ├── Readme.txt
+│   ├── app.py
+│   └── contact.php
 │
 ├── index.html
-└── README.md
+├── inner-page.html
+├── portfolio-details.html
+├── README.md
+└── Readme.txt
+
+## Sections
+## Home
+The Home section is the landing page of the portfolio website.
+
+##  About
+The About section provides information about me, my background, and skills.
+
+## Resume
+The Resume section contains a detailed resume showcasing my education, work experience, and skills.
+
+## Portfolio
+The Portfolio section showcases various projects I have worked on.
+
+## Participations
+The Participations section lists my involvements in different activities and includes certificates.
+
+## Contacts
+The Contacts section includes my contact details, a location map, and a contact form for inquiries.
+
+## License
+This project is licensed under the MIT License.
